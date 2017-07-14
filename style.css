@@ -1,0 +1,28 @@
+numbers{
+
+}
+
+numbers,a{
+	background:rgb(204, 224, 255);
+	width:5%;
+	padding:2% 0% 2% 3%;
+	border-radius:50%;
+	float:left;
+	margin:2%;
+	font-size:50px;
+}
+
+numbers,a:link{
+    color:#000; 
+    text-decoration: none;
+}
+
+numbers,a:visited{
+    color:#000; 
+    text-decoration: none;
+}
+
+.esconde{
+	display:none;
+	padding:100px;
+}

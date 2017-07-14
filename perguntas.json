@@ -1,0 +1,64 @@
+var jsonObject = {
+"perguntas":[
+    {"pergunta":"Qual o maior livro da bíblia e quantos capítulos?", "resposta":"Salmos tem 150 capítulos."}, 
+    {"pergunta":"Qual o nome das esposas de Abraão, Isaque e Jacó?", "resposta":"Sara , Rebeca e Raquel."},
+    {"pergunta":"Sou o único apostolo que ficou cego. Quem sou eu?", "resposta":"Paulo"},
+	{"pergunta":"Nas águas fui levado, no império fui criado e no deserto fui casado. Quem sou eu?","resposta":"Moisés"
+	},
+	{"pergunta":"Quais são os evangelhos?","resposta":"Quais são os evangelhos?"
+	},
+	{"pergunta":"A quem Deus revelou os dez mandamentos?","resposta":"Moisés"
+	},
+	{"pergunta":"Quantos livros tem a bíblia no velho e no novo testamento?","resposta":"66 livros, sendo 37 no antigo testamento e 29 No novo testamento"
+	},
+	{"pergunta":"O que significa Gênesis?","resposta":"Começo ou inicio."
+	},
+	{"pergunta":"Quem era o rei judeu na época de Jesus?","resposta":"Herodes"
+	},
+	{"pergunta":"Menina: Ser maquiada por um menino do time oposto<br>"+
+	"Menino: Ir de um lado para o outro imitando um sapo"
+	},
+	{"pergunta":"Quantos discípulos teve Jesus?","resposta":"12 discípulos"
+	},
+	{"pergunta":"Quais destes não é um livro da bíblia?","resposta":"Neemias, Isaias, Daniel, Paulo, Timóteo."
+	},
+	{"pergunta":"Quem comia mel e gafanhoto?","resposta":"João Batista"
+	},
+	{"pergunta":"Quem fez um ferro de machado flutuar?","resposta":"Elizeu"
+	},
+	{"pergunta":"Cantar um pedaço de uma musica em japones"
+	},
+	{"pergunta":"Quem batizou Jesus?","resposta":"João Batista"
+	},
+	{"pergunta":"Qual animal falou com Balaão?","resposta":"Mula"
+	},
+	{"pergunta":"Quantas pragas Deus fez cair sobre o Egito?","resposta":"10 Pragas", "alternativas":"A)3 B)7 C)10 D)12"
+	},
+	{"pergunta":"Complete no principio criou Deus os ...","resposta":"Céus e a Terra", "alternativas":"A)Céus e a Luz B)Mares e a Terra C)Céus e Lua D)Céus e a Terra "
+	},
+	{"pergunta":"Quantos dias durou o diluvio sobre a terra?","resposta":"40 dias", "alternativas":"A)30 B)37 C)40 D)45"
+	},
+	{"pergunta":"Em qual cidade Jesus nasceu?","resposta":"Belém", "alternativas":"A)Nazaré B)Belém C)Jerusalém D)Cafarnaum "
+	},
+	{"pergunta":"Varrer o chão dançando"
+	},
+	{"pergunta":"Qual foi o primeiro milagre de Jesus relatado na bíblia?","resposta":"Transformou a agua em vinho.", "alternativas":"A)Curou o cego B)Multiplicação dos alimentos C)Transformou a agua em vinho D)Acalmou o mar agitado"
+	},
+	{"pergunta":"Onde estava a força de Sansão?","resposta":"Em seu cabelo.", "alternativas":"A)Cabelo B)Espada C)Barba D)Braço"
+	},
+	{"pergunta":"Qual o gesto que Judas Iscariotes traiu Jesus?","resposta":"Um beijo.", "alternativas":"A)Abraço B)Um Beijo C)Um toque no braço D)Não houve nenhum gesto"
+	},
+	{"pergunta":"Quem escreveu o livro de apocalipse?","resposta":"João", "alternativas":"A)João B)Pedro C)Mateus D)Lucas"
+	},
+	{"pergunta":"Falar 5 palavras que comecem com a letra F com farinha na boca"
+	},
+	{"pergunta":"Qual o nome do discípulo que duvidou que Jesus tivesse ressuscitado?","resposta":"Tomé", "alternativas":"A)João B)Tome C)Pedro D)Tomé"
+	},
+	{"pergunta":"Qual o nome do discípulo, que antes de ser chamado por Jesus era cobrador de impostos?","resposta":"Mateus", "alternativas":"A)João B)Mateus C)Tiago D)Judas"
+	},
+	{"pergunta":"Por quanto tempo Jonas ficou na barriga de um grande peixe?","resposta":"3 dias.", "alternativas":"A)1 B)4 C)2 D)3"
+	},
+	{"pergunta":"Procurar um anel na farinha com a boca"
+	}
+]
+};

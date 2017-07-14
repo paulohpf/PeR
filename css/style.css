@@ -1,0 +1,44 @@
+body{
+	background: #FFF1D6	url(../images/noise.png);
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	line-height: 1.6;	
+}
+
+number,.bolha{
+	background-color:rgb(153, 206, 255);
+	padding:5%;
+	margin:1%;
+	border-radius:100%;
+	float:left;
+}
+
+number,.conteudo_escondido p{
+	font-size:100%;
+}
+
+number, .conteudo_escondido .alternativas{
+	font-size:120%;
+}
+
+number, .conteudo_escondido .resposta{
+	font-size:150%;
+}
+
+number,.bolha_desativada{
+	background-color:rgb(255, 153, 204);
+	padding:5%;
+	margin:1%;
+	border-radius:100%;
+	float:left;
+
+}
+
+number,a{
+		font-size:200%;
+		font-color:#000;
+        text-decoration: none;
+}
+
+number,a:visited{
+        text-decoration: none;
+}
